@@ -178,6 +178,7 @@ div p:hover{
     /* font-size: 10px; */
     margin-left: 62.5px;
     margin-bottom: 20px;
+    color: var(--teritory-color);
 }
 #mobile{
     visibility: hidden;
