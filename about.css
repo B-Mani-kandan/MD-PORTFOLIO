@@ -62,12 +62,13 @@ div p:hover{
 }
 .about div{
     width: 50%;
-    margin-left: 15px;
+    /* margin-left: 15px; */
     
 }
 .textme{
     color: #000;
     margin-top: 5%;
+    margin-right: 30px;
    
 }
 .aos-init span{
@@ -90,7 +91,7 @@ div p:hover{
     font-style: normal;
     font-weight: 700;
     font-size: 2.4rem;
-    margin-left: 12px;
+    /* margin-left: 12px; */
     color: #372580;
     /* color: var(--teritory-color); */
     margin-top: 1.6rem;

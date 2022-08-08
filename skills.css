@@ -155,7 +155,7 @@ nav a:hover{
 }
 .text{
     position: relative;
-    color: #777;
+    color:#777;
     font-weight: 700;
     margin-top: 20px;
     font-size: 18px;
@@ -164,7 +164,7 @@ nav a:hover{
     transition: 0.5s;
 }
 .card:hover .text{
-    color: #fff;
+    color: #ffffff;
 }
 svg{
     position: relative;
